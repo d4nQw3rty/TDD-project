@@ -20,10 +20,10 @@ describe Solver do
     end
   end
  describe '#reverse' do
-    xit 'returns "olleh" for "hello"' do
+    it 'returns "olleh" for "hello"' do
       expect(solver.reverse("hello")).to eq("olleh")
     end
-    xit 'returns "dlrow" for "world"' do
+    it 'returns "dlrow" for "world"' do
       expect(solver.reverse("world")).to eq("dlrow")
     end
   end
