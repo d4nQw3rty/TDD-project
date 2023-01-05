@@ -60,36 +60,21 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [TDD-project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+>
+**[TDD-project]** is an app built with Ruby with three method, factorial, reverse, and fizzbuzz.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
-  <summary>Client</summary>
+  <summary>Ruby</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+    <li><a href="https://rspec.info">Rspec</a></li>
   </ul>
 </details>
 
@@ -97,11 +82,10 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+> 
+- **[Find factorial of a given number]**
+- **[Reverse a string ]**
+- **[Apply fizzbuzz to a interger ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,27 +93,26 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-
+> 
+- [Not available]()
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
+> 
 To get a local copy up and running, follow these steps.
-
 ### Prerequisites
 
 In order to run this project you need:
+- Install Ruby in your computer [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
+- Install Git in your computer [Git](https://git-scm.com/downloads)
+- Any text editor [VSCode](https://code.visualstudio.com/download) recomended
+
 
 <!--
 Example command:
-
 ```sh
  gem install rails
 ```
@@ -139,9 +122,10 @@ Example command:
 
 Clone this repository to your desired folder:
 
+git clone git@github.com:d4nQw3rty/TDD-project.git
+
 <!--
 Example commands:
-
 ```sh
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
@@ -152,9 +136,10 @@ Example commands:
 
 Install this project with:
 
+run in your terminal the command: bundle install
+
 <!--
 Example command:
-
 ```sh
   cd my-project
   gem install
@@ -165,9 +150,9 @@ Example command:
 
 To run the project, execute the following command:
 
+execute the command: rspec
 <!--
 Example command:
-
 ```sh
   rails server
 ```
@@ -175,11 +160,10 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
+To run tests, run the following command: rspec
 
 <!--
 Example command:
-
 ```sh
   bin/rails test test/models/article_test.rb
 ```
@@ -187,13 +171,11 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
+You can deploy this project using: 
 
 <!--
 Example:
-
 ```sh
-
 ```
  -->
 
@@ -204,18 +186,17 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
+👤 **Danys Linares**
 
-👤 **Author1**
+- GitHub: [@github](https://github.com/d4nQw3rty)
+- Twitter: [@twitter](https://twitter.com/Danys_Linares)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/danys-linares)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Oscar Fernández Muñoz**
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@oscarfmdev](https://github.com/oscarfmdev)
+- Twitter: [@oscarfmdev](https://twitter.com/oscarfmdev)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/oscarfmdev)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -224,10 +205,9 @@ Example:
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[create UI]**
+- [ ] **[create more methods]**
+- [ ] **[Keep updated]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,7 +217,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/d4nQw3rty/TDD-project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -246,8 +226,7 @@ Feel free to check the [issues page](../../issues/).
 ## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project give a star ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -256,24 +235,22 @@ If you like this project...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank [Microverse](https://www.microverse.org/) for the opportunity to learn and grow as a developer.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
+- **[Was it built with ruby?]**
 
-- **[Question_1]**
+  - [yes it was]
 
-  - [Answer_1]
+- **[will you create new programs?]**
 
-- **[Question_2]**
-
-  - [Answer_2]
+  - [Yes we will be creating new programs]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -281,7 +258,7 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
