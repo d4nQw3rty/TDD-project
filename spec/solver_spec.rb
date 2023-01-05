@@ -28,19 +28,19 @@ describe Solver do
     end
   end
   describe '#fizzbuzz' do
-    xit 'returns "fizz" for 3' do
+    it 'returns "fizz" for 3' do
       expect(solver.fizzbuzz(3)).to eq("fizz")
     end
-    xit 'returns "buzz" for 5' do
+    it 'returns "buzz" for 5' do
       expect(solver.fizzbuzz(5)).to eq("buzz")
     end
-    xit 'returns "fizzbuzz" for 15' do
+    it 'returns "fizzbuzz" for 15' do
       expect(solver.fizzbuzz(15)).to eq("fizzbuzz")
     end
-    xit 'returns 1 for 1' do
+    it 'returns 1 for 1' do
       expect(solver.fizzbuzz(1)).to eq('1')
     end
-    xit 'returns 2 for 2' do
+    it 'returns 2 for 2' do
       expect(solver.fizzbuzz(2)).to eq('2')
     end
   end
