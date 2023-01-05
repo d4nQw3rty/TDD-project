@@ -25,15 +25,6 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -69,7 +60,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 <details>
   <summary>Ruby</summary>
   <ul>
@@ -185,7 +175,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 👤 **Danys Linares**
 
 - GitHub: [@github](https://github.com/d4nQw3rty)
@@ -204,7 +193,6 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 - [ ] **[create UI]**
 - [ ] **[create more methods]**
 - [ ] **[Keep updated]**
@@ -225,7 +213,6 @@ Feel free to check the [issues page](https://github.com/d4nQw3rty/TDD-project/is
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 If you like this project give a star ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -234,7 +221,6 @@ If you like this project give a star ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 I would like to thank [Microverse](https://www.microverse.org/) for the opportunity to learn and grow as a developer.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -243,7 +229,6 @@ I would like to thank [Microverse](https://www.microverse.org/) for the opportun
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 - **[Was it built with ruby?]**
 
   - [yes it was]
