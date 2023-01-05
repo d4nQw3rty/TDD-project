@@ -140,7 +140,7 @@ Example command:
 
 To run the project, execute the following command:
 
-execute the command: rspec
+execute the command: in construction
 <!--
 Example command:
 ```sh
@@ -150,8 +150,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command: rspec
-
+To run tests, run the following command: in yor terminal type rspec
 <!--
 Example command:
 ```sh
@@ -161,7 +160,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using: 
+You can deploy this project using: Not yet deployed
 
 <!--
 Example:
